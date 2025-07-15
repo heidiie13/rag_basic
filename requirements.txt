@@ -1,0 +1,6 @@
+langchain
+langchain-community
+langchain-openai
+langchain_milvus
+langchain_huggingface
+sentence-transformers
